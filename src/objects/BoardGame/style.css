@@ -1,0 +1,7 @@
+.board-game {
+    background-color: var(--color-cosmica);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
